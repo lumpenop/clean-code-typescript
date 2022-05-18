@@ -5,7 +5,7 @@
     clean-code-typescript
 </h1>
 
-https://738.github.io/clean-code-typescript/
+<a href="https://738.github.io/clean-code-typescript/">여기서 보자</a>
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=클린코드%20타입스크립트&url=https://github.com/738/clean-code-typescript">
